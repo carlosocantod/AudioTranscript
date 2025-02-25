@@ -1,0 +1,6 @@
+# TODO: add specific versions of the packages
+transformers
+pydub
+# see https://pytorch.org/get-started/locally/
+torch
+torchaudio
